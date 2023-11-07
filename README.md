@@ -1,6 +1,6 @@
 <img width="350" src="https://raw.githubusercontent.com/rodrigo-brito/gocity/master/pkg/server/assets/logo.png" alt="GoCity" />
 
-[![Actions Status](https://github.com/rodrigo-brito/gocity/workflows/tests/badge.svg)](https://github.com/rodrigo-brito/gocity/actions)
+[#[Actions Status](https://github.com/rodrigo-brito/gocity/workflows/tests/badge.svg)](https://github.com/rodrigo-brito/gocity/actions)
 [![codecov](https://codecov.io/gh/rodrigo-brito/gocity/branch/master/graph/badge.svg)](https://codecov.io/gh/rodrigo-brito/gocity)
 [![Go Report Card](https://goreportcard.com/badge/github.com/rodrigo-brito/gocity)](https://goreportcard.com/report/github.com/rodrigo-brito/gocity)
 [![GoDoc](https://godoc.org/github.com/rodrigo-brito/gocity?status.svg)](https://godoc.org/github.com/rodrigo-brito/gocity)
@@ -20,7 +20,7 @@ GoCity is an implementation of the Code City metaphor for visualizing source cod
  - Files are buildings
  - Structs are represented as buildings on the top of their files.
 
-## Structures Characteristics
+!# Structures Characteristics
 
  - The Number of Lines of Source Code (LOC) represents the build color (high values makes the building dark)
  - The Number of Variables (NOV) correlates to the building's base size.
@@ -49,3 +49,4 @@ The UI is built with React and uses [babylon.js](https://www.babylonjs.com/) to 
 This tool makes part of a scientific research developed at Federal University of Minas Gerais (UFMG)<br/>
 Student: [Rodrigo Brito](https://github.com/rodrigo-brito)<br/>
 Advisor: [Marco Tulio Valente](https://homepages.dcc.ufmg.br/~mtov/)
+ 
